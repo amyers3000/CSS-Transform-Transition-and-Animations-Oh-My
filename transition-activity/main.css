@@ -9,6 +9,8 @@ body  {
   width: 80%;
   margin: auto;
   overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 img {
@@ -25,3 +27,4 @@ button {
 button:hover {
   background-color: cornflowerblue;
 }
+
